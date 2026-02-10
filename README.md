@@ -1,4 +1,4 @@
-# My-Web-Projects
+
 # 💫 About Me:
 Basic web development (HTML, CSS, JavaScript) and responsive design<br>Simple Android app development using Java<br>PC diagnostics, troubleshooting, and system maintenance<br>OS installation, performance fixes, and common hardware/software issues<br>SEO services with practical experience improving website visibility
 
