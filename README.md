@@ -1,9 +1,9 @@
 
 # 💫 About Me:
-🎓 BS Software Engineering graduate from the University of Sindh, passionate about building practical and impactful software solutions.
-💻 I work with Android (Java), Web Development (HTML, CSS, JavaScript), and the MERN Stack, with hands-on experience in Firebase for backend integration.
-🔧 Beyond coding, I have practical experience in PC diagnostics, hardware/software troubleshooting, OS installation, and performance optimization.
-🔍 I also have real-world SEO experience, helping improve website visibility through effective link-building strategies.
+🎓 BS Software Engineering graduate from the University of Sindh, passionate about building practical and impactful software solutions. <br>
+💻 I work with Android (Java), Web Development (HTML, CSS, JavaScript), and the MERN Stack, with hands-on experience in Firebase for backend integration.<br>
+🔧 Beyond coding, I have practical experience in PC diagnostics, hardware/software troubleshooting, OS installation, and performance optimization.<br>
+🔍 I also have real-world SEO experience, helping improve website visibility through effective link-building strategies.<br>
 
 
 ## 🌐 Socials:
