@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-Basic web development (HTML, CSS, JavaScript) and responsive design<br>Simple Android app development using Java<br>PC diagnostics, troubleshooting, and system maintenance<br>OS installation, performance fixes, and common hardware/software issues<br>SEO services with practical experience improving website visibility
+🎓 BS Software Engineering graduate from the University of Sindh, passionate about building practical and impactful software solutions.
+💻 I work with Android (Java), Web Development (HTML, CSS, JavaScript), and the MERN Stack, with hands-on experience in Firebase for backend integration.
+🔧 Beyond coding, I have practical experience in PC diagnostics, hardware/software troubleshooting, OS installation, and performance optimization.
+🔍 I also have real-world SEO experience, helping improve website visibility through effective link-building strategies.
 
 
 ## 🌐 Socials:
