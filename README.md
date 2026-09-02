@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 BS Software Engineering graduate from the University of Sindh, passionate about building practical and impactful software solutions.<br><br>
 🚀 Currently working as a Laravel Developer Intern, building full-stack web applications with Laravel, MySQL, and the TALL stack (Tailwind CSS, Alpine.js).<br><br>
-💻 I also work with Android (Java), the MERN Stack, and Firebase for backend integration — with hands-on experience across authentication, role-based access control, and real-time data.<br><br>
+💻 My background also includes Android development (Java), the MERN Stack, and Firebase.<br><br>
 🔧 Beyond coding, I have practical experience in PC diagnostics, hardware/software troubleshooting, OS installation, and performance optimization.<br><br>
 🔍 I also have real-world SEO experience, helping improve website visibility through effective link-building strategies.<br>
 ## 🌐 Socials:
@@ -16,3 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Mubashir-Ali-Channa&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Mubashir-Ali-Channa&icon=2&color=9)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
