@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BS Software Engineering graduate from the University of Sindh, passionate about building practical and impactful software solutions.<br><br>
+🎓 BS Software Engineering Student from the University of Sindh, passionate about building practical and impactful software solutions.<br><br>
 🚀 Currently working as a Laravel Developer Intern, building full-stack web applications with Laravel, MySQL, and the TALL stack (Tailwind CSS, Alpine.js).<br><br>
 💻 My background also includes Android development (Java), the MERN Stack, and Firebase.<br><br>
 🔧 Beyond coding, I have practical experience in PC diagnostics, hardware/software troubleshooting, OS installation, and performance optimization.<br><br>
